@@ -1,0 +1,42 @@
+#WordPressImager {
+	margin-top: 1em;
+	margin-bottom:1em;
+}
+#WordPressImager h2 {
+	line-height:2;
+	display:block;
+}
+#WordPressImager * {
+	margin:0;
+	padding:0;
+}
+#WordPressImager div.photo {
+	float:left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+#WordPressImager a.photolink {
+	display:block;
+	margin:0;
+	padding:0px;
+	border: 1px solid #363430;
+	overflow:hidden;
+	font-size: 7px;
+}
+#WordPressImager a.photolink:hover {
+	border: 1px solid #BD934F;
+	color:#BD934F;
+}
+#WordPressImager a.photolink span {
+	display:block;
+	margin: 3px;
+	text-align:center;
+}
+#WordPressImager div.photo img.WordPressImager_img {
+	border:none;
+	margin:auto;
+	padding:0;
+}
+#WordPressImager .WordPressImager_powered {
+
+}
